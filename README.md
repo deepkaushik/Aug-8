@@ -8,4 +8,5 @@ Map app showing google map on app with a pin. Tap on pin shows location info in 
 4. addMarker
 5. Setup key for google_maps_key
 6. Uses permission for INTERNET, ACCESS_NETWORK_STATE, WRITE_EXTERNAL_STORAGE, READ_GSERVICES, ACCESS_COARSE_LOCATION, ACCESS_FINE_LOCATION
+
  
