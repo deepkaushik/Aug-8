@@ -1,4 +1,4 @@
-# Aug-8---Updated
+# Aug-8-HW
 
 Map app showing google map on app with a pin. Tap on pin shows location info in dialog box. When user move in any direction, x, y, or z, the pin move into that direction and show which direction user is moving. App showing use of:
 
