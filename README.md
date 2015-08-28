@@ -1,4 +1,4 @@
-# Aug-8-HW
+# Aug-8-
 
 App showing google map with a marker. Tap on marker shows location info in dialog box. When user move in any direction, x, y, or z, the pin move into that direction and show which direction user is moving. App showing use of:
 
